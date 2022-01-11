@@ -132,7 +132,7 @@ blockquote:before{
 	position:absolute;
 	left:0;
 	right:0;
-	top:-50px;
+	top:0px;
 	bottom:0;
 	background-position:center;
 	background-size:cover;
@@ -147,7 +147,7 @@ blockquote:before{
 	position:absolute;
 	left:0;
 	right:0;
-	top:0;
+	top:-50px;
 	bottom:0;
 	background-image: -webkit-gradient(linear, left top, left bottom, from(#374050), to(#798696));
 	background-image: linear-gradient(to bottom, #374050 0%, #798696 100%);
