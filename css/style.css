@@ -135,7 +135,7 @@ blockquote:before{
 	top:-50px;
 	bottom:0;
 	background-position:center;
-	background-size:contain;
+	background-size:cover;
 }
 
 .bg-image.bg-parallax {
