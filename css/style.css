@@ -1169,7 +1169,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 iframe{
-        border-radius:5%;
+        border-radius:2%;
 }
 
 /* --- Blog Reply Form --- */
