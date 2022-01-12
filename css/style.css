@@ -1168,6 +1168,10 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	margin-left:15px;
 }
 
+iframe{
+        border-radius:5%;
+}
+
 /* --- Blog Reply Form --- */
 .blog-reply-form {
 	margin-top:40px;
